@@ -1,0 +1,10 @@
+gradio==5.50.0
+pandas
+openpyxl
+pdfplumber
+rank-bm25
+fastembed
+numpy
+google-genai
+python-dotenv
+pydantic

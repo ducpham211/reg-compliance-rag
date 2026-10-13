@@ -1,0 +1,1495 @@
+[
+ {
+  "dieu": "1",
+  "khoan_old": null,
+  "khoan_new": "3",
+  "status": "Added",
+  "old": "",
+  "new": "3. Hoạt động cho vay được nêu tại phương án cơ cấu lại tổ chức tín dụng được kiểm soát đặc biệt được cấp có thẩm quyền phê duyệt thực hiện theo phương án cơ cấu lại được cấp có thẩm quyền phê duyệt.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 4,
+  "amended_by": "",
+  "summary": "Quy định rõ hoạt động cho vay đối với tổ chức tín dụng được kiểm soát đặc biệt phải tuân thủ phương án cơ cấu lại đã được phê duyệt.",
+  "impact": {
+   "processes": [
+    "Phê duyệt cho vay"
+   ],
+   "departments": [
+    "Quản lý rủi ro",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 1 khoản 3"
+ },
+ {
+  "dieu": "2",
+  "khoan_old": "6",
+  "khoan_new": "6",
+  "status": "Modified",
+  "old": "6. Phương án sử dụng vốn là tập hợp các thông tin về việc sử dụng vốn của khách hàng, trong đó phải có các thông tin: 8) Tông nguồn vốn cần sử dụng, chỉ tiết các loại nguồn vốn trong tổng nguồn vốn cân sử dụng (trong đó có nguồn vốn cần vay tại tổ chức tín dụng); mục đích sử dụng vôn; thời gian sử dụng vôn; b) Nguồn trả nợ của khách hàng; c) Phương án, dự án thực hiện hoạt động kinh doanh (trừ nhu cầu vốn phục vụ đời sông).",
+  "new": "6. Phương án sử dụng vốn là tập hợp các thông tin về việc sử dụng vốn của khách hàng, trong đó phải có các thông tin: a) Tổng nguồn vốn cần sử dụng, chi tiết các loại nguồn vốn trong tổng nguồn vốn cần sử dụng (trong đó có nguồn vốn cần vay tại tổ chức tín dụng); mục đích sử dụng vốn; thời gian sử dụng vốn; b) Nguồn trả nợ của khách hàng; c) Phương án, dự án thực hiện hoạt động kinh doanh hoặc phương án, dự án phục vụ nhu cầu đời sống để mua nhà ở; xây dựng, cải tạo nhà ở; nhận chuyển nhượng quyền sử dụng đất để xây nhà ở.",
+  "similarity": 0.858,
+  "page_old": 2,
+  "page_new": 5,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Bổ sung chi tiết yêu cầu về phương án sử dụng vốn, bao gồm cả các dự án phục vụ đời sống như mua nhà, xây dựng hoặc nhận chuyển nhượng quyền sử dụng đất.",
+  "impact": {
+   "processes": [
+    "Tiếp nhận hồ sơ vay",
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 2 khoản 6"
+ },
+ {
+  "dieu": "2",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Cho vay là hình thức cấp tín dụng, theo đó tổ chức tín dụng giao hoặc cam kết giao cho khách hàng một khoản tiền để sử dụng vào mục đích xác định trong một thời gian nhất định theo thỏa thuận với nguyên tắc có hoàn trả cả gốc và lãi.",
+  "new": "1. Cho vay là hình thức cấp tín dụng thông qua việc tổ chức tín dụng giao hoặc cam kết giao cho khách hàng một khoản tiền để sử dụng vào mục đích xác định, trong một thời gian nhất định, theo nguyên tắc có hoàn trả đầy đủ tiền gốc, lãi theo thỏa thuận cho tổ chức tín dụng.",
+  "similarity": 0.831,
+  "page_old": 1,
+  "page_new": 4,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Làm rõ định nghĩa cho vay là việc cấp tín dụng có cam kết hoàn trả đầy đủ cả gốc và lãi theo thỏa thuận.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay"
+   ],
+   "departments": [
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 2 khoản 1"
+ },
+ {
+  "dieu": "2",
+  "khoan_old": null,
+  "khoan_new": "12",
+  "status": "Added",
+  "old": "",
+  "new": "12. Cho vay bù đắp tài chính là việc tổ chức tín dụng cho khách hàng vay để bù đắp các chi phí đã thanh toán, chi trả bằng vốn của chính khách hàng, vốn vay từ cá nhân, tổ chức (không phải tổ chức tín dụng) nhằm thực hiện phương án, dự án hoạt động kinh doanh hoặc phương án, dự án phục vụ nhu cầu đời sống.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 6,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Bổ sung khái niệm cho vay bù đắp tài chính, cho phép khách hàng vay để bù đắp các chi phí đã thanh toán trước đó.",
+  "impact": {
+   "processes": [
+    "Tiếp nhận hồ sơ vay",
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 2 khoản 12"
+ },
+ {
+  "dieu": "2",
+  "khoan_old": null,
+  "khoan_new": "13",
+  "status": "Added",
+  "old": "",
+  "new": "13. Khoản cho vay có mức giá trị nhỏ là khoản cho vay theo quy định tại khoản 2 Điều 102 Luật Các tổ chức tín dụng và không vượt quá 200.000.000 (hai trăm triệu) đồng Việt Nam tại các quỹ tín dụng nhân dân, 400.000.000 (bốn trăm triệu) đồng Việt Nam tại các tổ chức tín dụng khác.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 6,
+  "amended_by": "",
+  "summary": "Định nghĩa khoản cho vay có mức giá trị nhỏ để áp dụng các quy định đơn giản hóa thủ tục.",
+  "impact": {
+   "processes": [
+    "Tiếp nhận hồ sơ vay",
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_amount_mil"
+   ]
+  },
+  "ref": "Điều 2 khoản 13"
+ },
+ {
+  "dieu": "2",
+  "khoan_old": null,
+  "khoan_new": "14",
+  "status": "Added",
+  "old": "",
+  "new": "14. Người có liên quan của khách hàng là tổ chức, cá nhân có quan hệ với khách hàng theo quy định tại khoản 24 Điều 4 Luật Các tổ chức tín dụng.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 7,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Bổ sung định nghĩa người có liên quan của khách hàng theo Luật Các tổ chức tín dụng để phục vụ công tác kiểm soát rủi ro.",
+  "impact": {
+   "processes": [
+    "Nhận biết/xác minh khách hàng",
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 2 khoản 14"
+ },
+ {
+  "dieu": "4",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Khách hàng vay vốn tổ chức tín dụng phái đảm bảo sử dụng vốn vay đúng mục đích, hoàn trả nợ gôc và lãi tiên vay đúng thời hạn đã thoả thuận với tô chức tín dụng.",
+  "new": "2. Khách hàng vay vốn tổ chức tín dụng phải đảm bảo sử dụng vốn vay đúng mục đích đã cam kết, hoàn trả nợ gốc, lãi tiền vay, phí đầy đủ, đúng hạn theo thỏa thuận với tổ chức tín dụng.",
+  "similarity": 0.886,
+  "page_old": 3,
+  "page_new": 7,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Khách hàng phải cam kết trả phí đầy đủ bên cạnh gốc và lãi, tăng cường trách nhiệm tuân thủ hợp đồng.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 4 khoản 2"
+ },
+ {
+  "dieu": "7",
+  "khoan_old": "3",
+  "khoan_new": "3",
+  "status": "Modified",
+  "old": "3. Có phương án sử dụng vốn khả thi.",
+  "new": "3. Có phương án sử dụng vốn khả thi. Điều kiện này không bắt buộc đối với khoản cho vay có mức giá trị nhỏ.",
+  "similarity": 0.482,
+  "page_old": 4,
+  "page_new": 8,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Bãi bỏ yêu cầu bắt buộc về phương án sử dụng vốn đối với các khoản vay có mức giá trị nhỏ, giúp giảm bớt thủ tục hành chính.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_amount_mil"
+   ]
+  },
+  "ref": "Điều 7 khoản 3"
+ },
+ {
+  "dieu": "7",
+  "khoan_old": "5",
+  "khoan_new": "5",
+  "status": "Removed",
+  "old": "5. Trường hợp khách hàng vay vốn của tô chức tín dụng theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này, thì khách hàng được tổ chức tín dụng đánh giá là có tình hình tài chính mình bạch, lành mạnh.",
+  "new": "5. (được bãi bỏ).",
+  "similarity": 0.09,
+  "page_old": 4,
+  "page_new": 8,
+  "amended_by": "",
+  "summary": "Bãi bỏ quy định về đánh giá tình hình tài chính minh bạch, lành mạnh đối với một số loại lãi suất cho vay.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "credit_score"
+   ]
+  },
+  "ref": "Điều 7 khoản 5"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề mà pháp luật cầm đâu tư kinh doanh.",
+  "new": "1. Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư.",
+  "similarity": 0.798,
+  "page_old": 4,
+  "page_new": 9,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Cập nhật căn cứ pháp lý về các ngành nghề cấm đầu tư kinh doanh theo Luật Đầu tư.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 1"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Để thanh toán các chỉ phí, đáp ứng các nhu cầu tài chính của các giao dịch, hành vi mà pháp luật câm. _ 3, Để mua, sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề mà pháp luật câm đâu tư kinh doanh. 4. Để mua vàng miếng. 5. Để trả nợ khoản nợ vay tại chính tổ chức tín dụng cho vay trừ trường hợp cho vay đê thanh toán lãi tiên vay phát sinh trong quá trình thi công xây dựng công trình, mà chi phí lãi tiên vay được tính trong dự toán xây dựng công trình được câp có thâm quyên phê duyệt theo quy định của pháp luật. 6. Để trả nợ khoản nợ vay tại tô chức tín dụng khác và trả nợ khoản vay nước ngoài, trừ trường hợp cho vay đê trả nợ trước hạn khoản vay đáp ứng đây đủ các điêu kiện sau đây: a) Là khoản vay phục vụ hoạt động kinh doanh; b) Thời hạn cho vay không vượt quá thời hạn cho vay còn lại của khoản Vay CŨ; c) Là khoản vay chưa thực hiện cơ cầu lại thời hạn trả nợ.",
+  "new": "2. Để thanh toán các chi phí, đáp ứng các nhu cầu tài chính của hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư và các giao dịch, hành vi khác mà pháp luật cấm.",
+  "similarity": 0.187,
+  "page_old": 4,
+  "page_new": 9,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Hợp nhất và làm rõ các hành vi bị cấm trong hoạt động cho vay.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Quản lý rủi ro"
+   ],
+   "departments": [
+    "Thẩm định tín dụng",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 2"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "3",
+  "status": "Added",
+  "old": "",
+  "new": "3. Để mua, sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 9,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Cấm cho vay để mua, sử dụng hàng hóa, dịch vụ thuộc ngành nghề cấm đầu tư kinh doanh.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 3"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "4",
+  "status": "Added",
+  "old": "",
+  "new": "4. Để mua vàng miếng.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 9,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Cấm cho vay để mua vàng miếng.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 4"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "5",
+  "status": "Added",
+  "old": "",
+  "new": "5. Để trả nợ khoản cấp tín dụng tại chính tổ chức tín dụng cho vay, trừ trường hợp cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình, mà chi phí lãi tiền vay được tính trong tổng mức đầu tư xây dựng được cấp có thẩm quyền phê duyệt theo quy định của pháp luật.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 9,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Cấm cho vay để trả nợ tại chính tổ chức tín dụng, trừ trường hợp lãi vay xây dựng công trình.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 5"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "6",
+  "status": "Added",
+  "old": "",
+  "new": "6. Để trả nợ khoản vay nước ngoài (không bao gồm khoản vay nước ngoài dưới hình thức mua bán hàng hóa trả chậm), khoản cấp tín dụng tại tổ chức tín dụng khác, trừ trường hợp cho vay để trả nợ trước hạn khoản vay đáp ứng đầy đủ các điều kiện sau: a) Thời hạn cho vay không vượt quá thời hạn cho vay còn lại của khoản vay cũ; b) Là khoản vay chưa được kéo dài thêm một khoảng thời gian trả nợ một phần hoặc toàn bộ nợ gốc và/hoặc lãi tiền vay của kỳ hạn trả nợ đã thỏa thuận (bao gồm cả trường hợp không thay đổi về số kỳ hạn trả nợ đã thỏa thuận), thời hạn cho vay không thay đổi; khoản vay chưa được kéo dài thêm một khoảng thời gian trả nợ gốc và/hoặc lãi tiền vay, vượt quá thời hạn cho vay đã thỏa thuận.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 9,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Quy định chặt chẽ các điều kiện cho vay để trả nợ khoản vay tại tổ chức tín dụng khác hoặc vay nước ngoài.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 6"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "7",
+  "status": "Added",
+  "old": "",
+  "new": "7. Để gửi tiền.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 10,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Cấm cho vay để gửi tiền.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 7"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "8",
+  "status": "Added",
+  "old": "",
+  "new": "8. Để thanh toán tiền góp vốn, mua, nhận chuyển nhượng phần vốn góp của công ty trách nhiệm hữu hạn, công ty hợp danh; góp vốn, mua, nhận chuyển nhượng cổ phần của công ty cổ phần chưa niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên hệ thống giao dịch Upcom.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 10,
+  "amended_by": "06/2023/TT-NHNN, 10/2023/TT-NHNN",
+  "summary": "Cấm cho vay để góp vốn, mua cổ phần tại các công ty chưa niêm yết hoặc chưa đăng ký giao dịch.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 8"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "9",
+  "status": "Added",
+  "old": "",
+  "new": "9. Để thanh toán tiền góp vốn theo hợp đồng góp vốn, hợp đồng hợp tác đầu tư hoặc hợp đồng hợp tác kinh doanh để thực hiện dự án đầu tư không đủ điều kiện đưa vào kinh doanh theo quy định của pháp luật tại thời điểm tổ chức tín dụng quyết định cho vay.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 10,
+  "amended_by": "06/2023/TT-NHNN, 10/2023/TT-NHNN",
+  "summary": "Cấm cho vay để góp vốn vào các dự án đầu tư chưa đủ điều kiện kinh doanh theo pháp luật.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 9"
+ },
+ {
+  "dieu": "8",
+  "khoan_old": null,
+  "khoan_new": "10",
+  "status": "Added",
+  "old": "",
+  "new": "10. Để bù đắp tài chính, trừ trường hợp khoản vay đáp ứng đầy đủ các điều kiện sau: a) Khách hàng đã ứng vốn của chính khách hàng để thanh toán, chi trả chi phí thực hiện dự án hoạt động kinh doanh, mà các chi phí thực hiện dự án hoạt động kinh doanh này phát sinh dưới 12 tháng tính đến thời điểm tổ chức tín dụng quyết định cho vay; b) Các chi phí đã thanh toán, chi trả bằng vốn của chính khách hàng nhằm thực hiện dự án hoạt động kinh doanh là các chi phí có sử dụng nguồn vốn vay của tổ chức tín dụng theo phương án sử dụng vốn đã gửi tổ chức tín dụng để được xem xét cho vay trung, dài hạn nhằm thực hiện dự án hoạt động kinh doanh đó.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 10,
+  "amended_by": "06/2023/TT-NHNN, 10/2023/TT-NHNN",
+  "summary": "Quy định điều kiện cụ thể cho việc cho vay bù đắp tài chính (chi phí phát sinh dưới 12 tháng).",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 8 khoản 10"
+ },
+ {
+  "dieu": "9",
+  "khoan_old": null,
+  "khoan_new": null,
+  "status": "Modified",
+  "old": "Khi có nhu cầu vay vốn, khách hàng phải gửi cho tổ chức tín dụng các tài liệu chứng minh đủ điều kiện vay vốn theo quy định tại Điều 7 Thông tư này và các tài liệu khác do tô chức tín dụng hướng dẫn.",
+  "new": "1. Khi có nhu cầu vay vốn, khách hàng phải cung cấp cho tổ chức tín dụng: a) Thông tin, tài liệu, dữ liệu chứng minh đủ điều kiện vay vốn theo quy định tại Điều 7 Thông tư này và các thông tin, tài liệu, dữ liệu khác do tổ chức tín dụng hướng dẫn; b) Thông tin về người có liên quan của khách hàng trong trường hợp quy định tại khoản 2 Điều này. Thông tin về người có liên quan là cá nhân, bao gồm: họ và tên; số định danh cá nhân; quốc tịch, số hộ chiếu, ngày cấp, nơi cấp đối với người nước ngoài; mối quan hệ với khách hàng. Thông tin về người có liên quan là tổ chức, bao gồm: tên, mã số doanh nghiệp, địa chỉ trụ sở chính của doanh nghiệp, số Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ pháp lý tương đương, người đại diện theo pháp luật, mối quan hệ với khách hàng. 2. Quy định tại điểm b khoản 1 Điều này áp dụng trong trường hợp: a) Tại thời điểm đề nghị cho vay tại ngân hàng thương mại, ngân hàng hợp tác xã, chi nhánh ngân hàng nước ngoài, khách hàng có tổng mức dư nợ cấp tín dụng (bao gồm cả mức dư nợ cho vay mà khách hàng đang đề nghị cho vay) lớn hơn hoặc bằng 0,1% vốn tự có của ngân hàng thương mại, ngân hàng hợp tác xã, chi nhánh ngân hàng nước ngoài đó tại cuối ngày làm việc gần nhất; b) Tại thời điểm đề nghị cho vay tại tổ chức tín dụng phi ngân hàng, tổ chức tài chính vi mô, khách hàng có tổng mức dư nợ cấp tín dụng (bao gồm cả mức dư nợ cho vay mà khách hàng đang đề nghị cho vay) lớn hơn hoặc bằng 0,5% vốn tự có của tổ chức tín dụng phi ngân hàng, tổ chức tài chính vi mô đó tại cuối ngày làm việc gần nhất; c) Tại thời điểm đề nghị cho vay tại quỹ tín dụng nhân dân, khách hàng có tổng mức dư nợ cấp tín dụng (bao gồm cả mức dư nợ cho vay mà khách hàng đang đề nghị cho vay) lớn hơn hoặc bằng 1% vốn tự có của quỹ tín dụng nhân dân đó tại cuối ngày làm việc gần nhất; d) Trường hợp tổ chức tín dụng có vốn tự có âm, các tỷ lệ trên được áp dụng trên vốn điều lệ hoặc vốn được cấp đối với chi nhánh ngân hàng nước ngoài.",
+  "similarity": 0.181,
+  "page_old": 5,
+  "page_new": 11,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Yêu cầu khách hàng cung cấp thông tin về người có liên quan khi dư nợ đạt ngưỡng quy định để kiểm soát rủi ro tập trung.",
+  "impact": {
+   "processes": [
+    "Nhận biết/xác minh khách hàng",
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 9"
+ },
+ {
+  "dieu": "11",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Đồng tiền trả nợ là đồng tiền cho vay của khoản vay.",
+  "new": "2. Đồng tiền trả nợ là đồng tiền cho vay của khoản vay. Trường hợp trả nợ bằng đồng tiền khác, thì thực hiện theo thỏa thuận giữa tổ chức tín dụng và khách hàng phù hợp với quy định của pháp luật liên quan.",
+  "similarity": 0.408,
+  "page_old": 5,
+  "page_new": 12,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Cho phép thỏa thuận trả nợ bằng đồng tiền khác đồng tiền cho vay nếu phù hợp với quy định pháp luật.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay",
+    "Thu nợ gốc/lãi"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Kế toán/Tài chính"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 11 khoản 2"
+ },
+ {
+  "dieu": "13",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Tổ chức tín dụng và khách hàng thỏa thuận về lãi suất cho vay ngăn hạn bằng đồng Việt Nam nhưng không vượt quá mức lãi suất cho vay tối đa do Thống đốc Ngân hàng Nhà nước Việt Nam quyết định trong từng thời kỳ nhằm đáp ứng một sô nhu cầu vốn: a) Phục vụ lĩnh vực phát triển nông nghiệp, nông thôn theo quy định của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn; b) Thực hiện phương án kinh doanh hàng xuất khâu theo quy định tại Luật thương mại và các văn bản hướng dẫn Luật thương mại; c) Phục vụ kinh doanh của doanh nghiệp nhỏ và vừa theo quy định của Chính phủ về trợ giúp phát triên doanh nghiệp nhỏ và vừa; __ đ) Phát triển ngành công nghiệp hỗ trợ theo quy định của Chính phủ về phát triên công nghiệp hồ trợ; đ) Phục vụ kinh doanh của doanh nghiệp ứng dụng công nghệ cao theo quy định tại Luật công nghệ cao và các văn bản hướng dẫn Luật công nghệ cao.",
+  "new": "2. Trường hợp khách hàng được tổ chức tín dụng đánh giá là có tình hình tài chính minh bạch, lành mạnh, tổ chức tín dụng và khách hàng thỏa thuận về lãi suất cho vay ngắn hạn bằng đồng Việt Nam nhưng không vượt quá mức lãi suất cho vay tối đa do Thống đốc Ngân hàng Nhà nước Việt Nam quyết định trong từng thời kỳ nhằm đáp ứng một số nhu cầu vốn: a) Phục vụ lĩnh vực phát triển nông nghiệp, nông thôn theo quy định của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn; b) Thực hiện phương án kinh doanh hàng xuất khẩu theo quy định của Luật Thương mại và các văn bản hướng dẫn Luật Thương mại; c) Phục vụ kinh doanh của doanh nghiệp nhỏ và vừa theo quy định của Luật Hỗ trợ doanh nghiệp nhỏ và vừa và quy định của Chính phủ về hỗ trợ doanh nghiệp nhỏ và vừa; d) Phát triển ngành công nghiệp hỗ trợ theo quy định của Chính phủ về phát triển công nghiệp hỗ trợ; đ) Phục vụ kinh doanh của doanh nghiệp ứng dụng công nghệ cao thuộc Danh mục công nghệ cao ưu tiên đầu tư phát triển được Thủ tướng Chính phủ phê duyệt, doanh nghiệp công nghệ cao theo quy định của Luật Công nghệ cao và các văn bản hướng dẫn Luật Công nghệ cao.",
+  "similarity": 0.852,
+  "page_old": 6,
+  "page_new": 13,
+  "amended_by": "",
+  "summary": "Bổ sung đối tượng khách hàng và lĩnh vực được áp dụng lãi suất cho vay ưu đãi, yêu cầu TCTD phải xây dựng tiêu chí xác định khách hàng minh bạch, lành mạnh.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Phê duyệt cho vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 13 khoản 2"
+ },
+ {
+  "dieu": "16",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Khách hàng cung cấp thông tin cho tô chức tín dụng và chịu trách nhiệm trước pháp luật vê tính chính xác, trung thực, đầy đủ của các tài liệu gửi cho tổ chức tín dụng: a) Các tài liệu quy định tại Điều 9 Thông tư này; b) Báo cáo việc sử dụng vốn vay và chứng minh vốn vay được sử dụng đúng mục đích ghi trong thỏa thuận cho vay; c) Các tài liệu để chứng minh việc áp dụng biện pháp bảo đảm tiền vay.",
+  "new": "2. Khách hàng có trách nhiệm cung cấp thông tin, tài liệu, dữ liệu cho tổ chức tín dụng trung thực, chính xác, đầy đủ, kịp thời và phải chịu trách nhiệm về việc cung cấp thông tin, tài liệu, dữ liệu đó: a) Các thông tin, tài liệu, dữ liệu quy định tại khoản 1 Điều 9 Thông tư này; b) Báo cáo việc sử dụng vốn vay và cung cấp thông tin, tài liệu, dữ liệu chứng minh vốn vay được sử dụng đúng mục đích ghi trong thỏa thuận cho vay; c) Các thông tin, tài liệu, dữ liệu về biện pháp bảo đảm tiền vay trong trường hợp tổ chức tín dụng, khách hàng có thỏa thuận về việc áp dụng biện pháp bảo đảm.",
+  "similarity": 0.639,
+  "page_old": 7,
+  "page_new": 15,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Quy định rõ trách nhiệm của khách hàng trong việc cung cấp thông tin, tài liệu, dữ liệu trung thực, kịp thời và bổ sung nghĩa vụ chứng minh mục đích sử dụng vốn.",
+  "impact": {
+   "processes": [
+    "Nhận biết/xác minh khách hàng",
+    "Kiểm tra sử dụng vốn vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 16 khoản 2"
+ },
+ {
+  "dieu": "22",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Căn cứ quy định tại Luật các tổ chức tín dụng, Thông tư này và các quy định của pháp luật có liên quan, tổ chức tín dụng ban hành quy định nội bộ về cho vay, quản lý tiền vay phù hợp với đặc điểm hoạt động kinh doanh của tổ chức tín dụng (sau đây gọi là quy định nội bộ về cho vay).",
+  "new": "1. Căn cứ quy định tại Luật Các tổ chức tín dụng, Thông tư này và các quy định của pháp luật có liên quan, tổ chức tín dụng ban hành quy định nội bộ về cho vay, bao gồm quy định về cho vay bằng phương tiện điện tử (nếu có), quản lý tiền vay phù hợp với đặc điểm hoạt động kinh doanh của tổ chức tín dụng (sau đây gọi là quy định nội bộ về cho vay).",
+  "similarity": 0.9,
+  "page_old": 9,
+  "page_new": 17,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Yêu cầu TCTD cập nhật quy định nội bộ để bao quát phương thức cho vay bằng phương tiện điện tử.",
+  "impact": {
+   "processes": [
+    "Hệ thống thông tin/an toàn thông tin"
+   ],
+   "departments": [
+    "Pháp chế/Tuân thủ",
+    "Công nghệ thông tin"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 22 khoản 1"
+ },
+ {
+  "dieu": "22",
+  "khoan_old": "3",
+  "khoan_new": "3",
+  "status": "Modified",
+  "old": "3. Trong thời hạn 10 (mười) ngày làm việc kế từ ngày ban hành mới hoặc sửa đổi, bổ sung quy định nội bộ về cho vay, tổ chức tài chính vi mô và quỹ tín dụng nhân dân gửi quy định nội bộ đó cho Ngân hàng Nhà nước chỉ nhánh tỉnh, thành phô; tô chức tín dụng khác gửi cho Ngân hàng Nhà nước Việt Nam (Cơ quan Thanh tra, giám sát ngân hàng).",
+  "new": "3. Trong thời hạn 10 (mười) ngày kể từ ngày ban hành mới hoặc sửa đổi, bổ sung quy định nội bộ về cho vay, tổ chức tín dụng thuộc đối tượng thanh tra, giám sát an toàn vi mô của Ngân hàng Nhà nước chi nhánh Khu vực gửi quy định nội bộ đó cho Ngân hàng Nhà nước chi nhánh Khu vực; tổ chức tín dụng khác gửi cho Ngân hàng Nhà nước Việt Nam (Cục Quản lý, giám sát tổ chức tín dụng).",
+  "similarity": 0.762,
+  "page_old": 10,
+  "page_new": 20,
+  "amended_by": "",
+  "summary": "Thay đổi cơ quan tiếp nhận quy định nội bộ về cho vay của TCTD để phù hợp với cơ cấu quản lý mới của NHNN.",
+  "impact": {
+   "processes": [],
+   "departments": [
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 22 khoản 3"
+ },
+ {
+  "dieu": "22",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Quy định nội bộ về cho vay của tổ chức tín dụng được thực hiện trong toàn hệ thông và phải có tối thiểu các nội dung cụ thê sau: a) Điều kiện cho vay; các nhu cầu vốn không được cho vay; phương thức cho vay; lãi suất cho vay và phương pháp tính lãi tiền vay; hồ sơ cho vay và các 10 tài liệu của khách hàng gửi tổ chức tín dụng phù hợp với đặc điểm của khoản vay, loại cho vay và đối tượng khách hàng: thu nợ; điều kiện, quy trình và thủ tục cơ cấu lại thời hạn trả nợ; chuyên nợ quá hạn; b) Quy trình thấm định, phê duyệt và quyết định cho vay, trong đó quy định cụ thể thời hạn tối đa thâm định, quyết định cho vay; phân cập, ủy quyên và trách nhiệm của từng cá nhân, bộ phận trong việc thâm định, phê duyệt, quyết định cho vay và các công việc khác thuộc quy trình hoạt động cho vay; c) Quy trình kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng; phân câp, ủy quyên và trách nhiệm của từng cá nhân, bộ phận trong việc kiêm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng; Ồ d) Việc áp dụng biện pháp bảo đảm tiền vay, thâm định tài sản bảo đảm tiên vay, việc quản lý, giám sát, theo dõi tài sản bảo đảm tiền vay phù hợp với biện pháp bảo đảm tiền vay, đặc điểm của tài sản bảo đảm tiền vay và khách hàng; đ) Chấm dứt cho vay, xử lý nợ; miễn, giảm lãi tiền vay, phí; e) Nhận dạng các loại rủi ro có thể phát sinh trong quá trình cho vay; quy trình theo dõi, đánh giá và kiêm soát rủi ro; phương án xử lý rủi ro; ø) Kiểm soát việc cho vay để trả nợ khoản vay tại tổ chức tín dụng, trả nợ khoản vay nước ngoài nhằm phòng ngừa và ngăn chặn việc phản ánh sai lệch chất lượng tín dụng. Kiểm soát việc cho vay theo phương thức cho vay tuần hoàn và phương thức cho vay quay vòng nhằm quản lý dòng tiền của khách hàng để đảm bảo khả năng thu hồi đầy đủ nợ gốc và lãi tiền vay đúng hạn theo thoả thuận, phản ánh đúng chất lượng tín dụng.",
+  "new": "2. Quy định nội bộ về cho vay của tổ chức tín dụng được thực hiện trong toàn hệ thống và phải có tối thiểu các nội dung cụ thể sau: a) Điều kiện cho vay, trong đó quy định các tiêu chí cụ thể xác định nhu cầu vay vốn sử dụng vào mục đích hợp pháp, có phương án sử dụng vốn khả thi và có khả năng tài chính để trả nợ; các nhu cầu vốn không được cho vay; phương thức cho vay; lãi suất cho vay và phương pháp tính lãi tiền vay; tiêu chí xác định khách hàng có tình hình tài chính minh bạch, lành mạnh được vay vốn theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này; hồ sơ cho vay và các tài liệu, dữ liệu của khách hàng gửi tổ chức tín dụng phù hợp với đặc điểm của khoản vay, loại cho vay và đối tượng khách hàng; thu nợ; điều kiện, quy trình và thủ tục cơ cấu lại thời hạn trả nợ; chuyển nợ quá hạn; quy định cụ thể điều kiện cho vay không áp dụng biện pháp bảo đảm, phân cấp thẩm quyền quyết định cho vay không áp dụng biện pháp bảo đảm. b) Quy trình thẩm định, phê duyệt và quyết định cho vay, trong đó quy định cụ thể: (i) Thời hạn tối đa thẩm định, quyết định cho vay; phân cấp, ủy quyền và trách nhiệm của từng cá nhân, bộ phận trong việc thẩm định, phê duyệt, quyết định cho vay, bao gồm quy định đối với cho vay bằng phương tiện điện tử theo quy định tại Điều 32đ Thông tư này (nếu có); các công việc khác thuộc quy trình thẩm định, phê duyệt và quyết định cho vay; (ii) Trường hợp cho vay để thanh toán tiền góp vốn theo hợp đồng góp vốn, hợp đồng hợp tác đầu tư hoặc hợp đồng hợp tác kinh doanh để thực hiện dự án; (iii) Trường hợp cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba, tổ chức tín dụng cho vay thỏa thuận với khách hàng để phong tỏa số tiền cho vay tại tổ chức tín dụng cho vay đảm bảo phù hợp với quy định của pháp luật cho đến khi chấm dứt nghĩa vụ bảo đảm; c) Quy trình kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng, trong đó quy định cụ thể: (i) Phân cấp, ủy quyền và trách nhiệm của từng cá nhân, bộ phận trong việc kiểm tra, giám sát quá trình vay vốn, sử dụng vốn vay và trả nợ của khách hàng; (ii) Trường hợp cho vay để thanh toán tiền góp vốn theo hợp đồng góp vốn, hợp đồng hợp tác đầu tư hoặc hợp đồng hợp tác kinh doanh để thực hiện dự án, có biện pháp kiểm tra, giám sát, đánh giá tình hình tài chính, nguồn trả nợ của khách hàng, đảm bảo khả năng thu hồi đầy đủ nợ gốc và lãi tiền vay đúng hạn theo thoả thuận, kiểm soát việc sử dụng vốn vay đúng mục đích; (iii) Trường hợp cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba, đảm bảo thu hồi được vốn cho vay trong trường hợp các bên không thực hiện đúng thỏa thuận nghĩa vụ bảo đảm; (iv) Đối với các khoản cho vay có mức giá trị nhỏ, có biện pháp kiểm tra, giám sát việc sử dụng vốn vay đúng mục đích đã cam kết và trả nợ của khách hàng, đảm bảo khả năng thu hồi nợ gốc và lãi tiền vay đầy đủ, đúng hạn theo thỏa thuận. d) Việc áp dụng biện pháp bảo đảm tiền vay, thẩm định tài sản bảo đảm tiền vay, việc quản lý, giám sát, theo dõi tài sản bảo đảm tiền vay phù hợp với biện pháp bảo đảm tiền vay, đặc điểm của tài sản bảo đảm tiền vay và khách hàng; đ) Chấm dứt cho vay, xử lý nợ; miễn, giảm lãi tiền vay, phí; e) Nhận dạng các loại rủi ro có thể phát sinh; quy định theo dõi, đánh giá và kiểm soát rủi ro; phương án xử lý rủi ro trong quá trình cho vay (bao gồm cho vay bằng phương tiện điện tử); g) Kiểm soát việc cho vay để trả nợ khoản vay tại tổ chức tín dụng, trả nợ khoản vay nước ngoài nhằm phòng ngừa và ngăn chặn việc phản ánh sai lệch chất lượng tín dụng. Kiểm soát việc cho vay theo phương thức cho vay tuần hoàn và phương thức cho vay quay vòng nhằm quản lý dòng tiền của khách hàng để đảm bảo khả năng thu hồi đầy đủ nợ gốc và lãi tiền vay đúng hạn theo thoả thuận, phản ánh đúng chất lượng tín dụng. Kiểm soát việc cho vay để đầu tư kinh doanh chứng khoán; cho vay mua, kinh doanh bất động sản; cho vay các dự án đầu tư theo hình thức đối tác công tư; cho vay các nhu cầu vốn phục vụ đời sống có giá trị lớn theo đánh giá của tổ chức tín dụng; cho vay bằng phương tiện điện tử. h) Trường hợp cho vay bằng phương tiện điện tử, tổ chức tín dụng quy định cụ thể giới hạn dư nợ cho vay đối với một khách hàng, phù hợp với quy định của Luật Các tổ chức tín dụng, Thông tư này và các quy định của pháp luật có liên quan.",
+  "similarity": 0.598,
+  "page_old": 9,
+  "page_new": 17,
+  "amended_by": "06/2023/TT-NHNN, 12/2024/TT-NHNN",
+  "summary": "Yêu cầu bổ sung các nội dung bắt buộc vào quy định nội bộ như tiêu chí xác định khách hàng minh bạch, quy trình cho vay điện tử và phân cấp thẩm quyền cho vay không bảo đảm.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Phê duyệt cho vay",
+    "Quản lý rủi ro"
+   ],
+   "departments": [
+    "Pháp chế/Tuân thủ",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "credit_score",
+    "default_risk"
+   ]
+  },
+  "ref": "Điều 22 khoản 2"
+ },
+ {
+  "dieu": "23",
+  "khoan_old": "3",
+  "khoan_new": "3",
+  "status": "Modified",
+  "old": "3. Thỏa thuận cho vay quy định tại khoản l và 2 Điều này được lập dưới hình thức thỏa thuận cho vay cụ thê hoặc thỏa thuận khung và thỏa thuận cho vay cụ thê. 12",
+  "new": "3. Thỏa thuận cho vay quy định tại khoản 1 và 2 Điều này được lập dưới hình thức thỏa thuận cho vay cụ thể hoặc thỏa thuận khung và thỏa thuận cho vay cụ thể.",
+  "similarity": 0.984,
+  "page_old": 11,
+  "page_new": 22,
+  "amended_by": "",
+  "summary": "Làm rõ hình thức thỏa thuận cho vay bao gồm thỏa thuận khung và thỏa thuận cụ thể.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 23 khoản 3"
+ },
+ {
+  "dieu": "23",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Thỏa thuận cho vay phải được lập thành văn bản, trong đó tối thiểu có các nội dung sau: a) Tên, địa chỉ, mã số doanh nghiệp của tổ chức tín dụng cho vay; tên, địa chỉ, sô chứng minh nhân dân hoặc thẻ căn cước hoặc hộ chiếu hoặc mã số doanh nghiệp của khách hàng; b) Số tiền cho vay; hạn mức cho vay đối với trường hợp cho vay theo hạn mức; hạn mức cho vay dự phòng đối với trường hợp cho vay theo hạn mức cho vay dự phòng; hạn mức thấu chỉ đối với trường hợp cho vay theo hạn mức thấu chi trên tài khoản thanh toán; c) Mục đích sử dụng vốn Vay; I1 d) Đồng tiền cho vay, đồng tiền trả nợ; đ) Phương thức cho vay; e) Thời hạn cho vay; thời hạn duy trì hạn mức đối với trường hợp cho vay theo hạn mức, thời hạn hiệu lực của hạn mức cho vay dự phòng đối với trường hợp cho vay theo hạn mức cho vay dự phòng, hoặc thời hạn duy trì hạn mức thâu chi đối với trường hợp cho vay theo hạn mức thấu chỉ trên tài khoản thanh toán; ø) Lãi suất cho vay theo thỏa thuận và mức lãi suất quy đổi theo tỷ lệ %/năm tính theo số dư nợ cho vay thực tế và thời gian duy trì sô dư nợ cho vay thực tế đó theo quy định tại khoản 3 Điều 13 Thông tư này; nguyên tắc và các yếu tố xác định lãi suất, thời điểm xác định lãi suất cho vay đối với trường hợp áp dụng lãi suất cho Vay CÓ điều chỉnh; lãi suất áp dụng đối với dư nợ gốc bị quá hạn; lãi suất áp dụng đối với lãi chậm trả; loại phí liên quan đến khoản vay và mức phí áp dụng; h) Giải ngân vôn cho vay và việc sử dụng phương tiện thanh toán đê giải ngân vồn cho vay; 1) Việc trả nợ gôc, lãi tiên vay và thứ tự thu hôi nợ gôc, lãi tiên vay; trả nợ trước hạn; k) Cơ cấu lại thời hạn trả nợ; chuyển nợ quá hạn đối với số dư nợ gộc mà khách hàng không trả được nợ đúng hạn theo thỏa thuận và không được tô chức tín dụng chấp thuận cơ cấu lại thời hạn trả nợ; hình thức và nội dung thông báo chuyền nợ quá hạn theo Điều 20 Thông tư này; Ù) Trách nhiệm của khách hàng trong việc phối hợp với tô chức tín dụng và cung cấp các tài liệu liên quan đến khoản vay đê tô chức tín dụng thực hiện thâm định và quyết định cho vay, kiểm tra, giám sát việc sử dụng vôn vay và trả nợ của khách hàng; m) Các trường hợp chấm dứt cho vay; thu nợ trước hạn; chuyên nợ quá hạn đối với số dư nợ gốc mà khách hàng không trả được nợ trước hạn khi tô chức tín dụng chấm dứt cho vay, thu hồi nợ trước hạn; hình thức và nội dung thông báo chấm dứt cho vay, thu hồi nợ trước hạn theo khoản I Điều 21 Thông tư này; n) Xử lý nợ vay; phạt vi phạm và bồi thường thiệt hại; quyền vả trách nhiệm của các bên; o) Hiệu lực của thỏa thuận cho vay.",
+  "new": "1. Thỏa thuận cho vay phải được lập thành văn bản, trong đó tối thiểu có các nội dung sau: a) Thông tin về tổ chức tín dụng cho vay và khách hàng vay; b) Số tiền cho vay; hạn mức cho vay đối với trường hợp cho vay theo hạn mức; hạn mức cho vay dự phòng đối với trường hợp cho vay theo hạn mức cho vay dự phòng; hạn mức thấu chi đối với trường hợp cho vay theo hạn mức thấu chi trên tài khoản thanh toán; c) Mục đích sử dụng vốn vay; d) Đồng tiền cho vay, đồng tiền trả nợ; đ) Phương thức cho vay; e) Thời hạn cho vay; thời hạn duy trì hạn mức đối với trường hợp cho vay theo hạn mức, thời hạn hiệu lực của hạn mức cho vay dự phòng đối với trường hợp cho vay theo hạn mức cho vay dự phòng, hoặc thời hạn duy trì hạn mức thấu chi đối với trường hợp cho vay theo hạn mức thấu chi trên tài khoản thanh toán; g) Lãi suất cho vay theo thỏa thuận và mức lãi suất quy đổi theo tỷ lệ %/năm tính theo số dư nợ cho vay thực tế và thời gian duy trì số dư nợ cho vay thực tế đó theo quy định tại khoản 3 Điều 13 Thông tư này; nguyên tắc và các yếu tố xác định lãi suất, thời điểm xác định lãi suất cho vay đối với trường hợp áp dụng lãi suất cho vay có điều chỉnh; lãi suất áp dụng đối với dư nợ gốc bị quá hạn; lãi suất áp dụngđối với lãi chậm trả; loại phí liên quan đến khoản vay và mức phí áp dụng; h) Giải ngân vốn cho vay và việc sử dụng phương tiện thanh toán để giải ngân vốn cho vay; i) Việc trả nợ gốc, lãi tiền vay và thứ tự thu hồi nợ gốc, lãi tiền vay; trả nợ trước hạn; k) Cơ cấu lại thời hạn trả nợ; chuyển nợ quá hạn đối với số dư nợ gốc mà khách hàng không trả được nợ đúng hạn theo thỏa thuận và không được tổ chức tín dụng chấp thuận cơ cấu lại thời hạn trả nợ; hình thức và nội dung thông báo chuyển nợ quá hạn theo Điều 20 Thông tư này; l) Trách nhiệm của khách hàng trong việc phối hợp với tổ chức tín dụng và cung cấp các tài liệu liên quan đến khoản vay để tổ chức tín dụng thực hiện thẩm định và quyết định cho vay, kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng; m) Các trường hợp chấm dứt cho vay; thu nợ trước hạn; chuyển nợ quá hạn đối với số dư nợ gốc mà khách hàng không trả được nợ trước hạn khi tổ chức tín dụng chấm dứt cho vay, thu hồi nợ trước hạn; hình thức và nội dung thông báo chấm dứt cho vay, thu hồi nợ trước hạn theo khoản 1 Điều 21 Thông tư này; n) Xử lý nợ vay; phạt vi phạm và bồi thường thiệt hại; quyền và trách nhiệm của các bên; o) Hiệu lực của thỏa thuận cho vay.",
+  "similarity": 0.97,
+  "page_old": 10,
+  "page_new": 20,
+  "amended_by": "",
+  "summary": "Cập nhật các nội dung bắt buộc trong thỏa thuận cho vay, bao gồm thông tin khách hàng và các loại hạn mức thấu chi/dự phòng.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": [
+    "loan_amount_mil",
+    "loan_term_months"
+   ]
+  },
+  "ref": "Điều 23 khoản 1"
+ },
+ {
+  "dieu": "24",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Tổ chức tín dụng có quyền thực hiện kiểm tra, giám sát việc sử dụng vốn vay, trả nợ của khách hàng theo quy trình nội bộ quy định tại điểm c khoản 2 Điều 22 Thông tư này.",
+  "new": "2. Tổ chức tín dụng có quyền, nghĩa vụ kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng quy định tại khoản 1 Điều 102 Luật Các tổ chức tín dụng; có quyền yêu cầu khách hàng báo cáo việc sử dụng vốn vay và cung cấp thông tin, tài liệu, dữ liệu chứng minh vốn vay được sử dụng đúng mục đích.",
+  "similarity": 0.555,
+  "page_old": 12,
+  "page_new": 22,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Tăng cường quyền và nghĩa vụ của TCTD trong việc kiểm tra, giám sát sử dụng vốn vay theo quy định của Luật Các TCTD.",
+  "impact": {
+   "processes": [
+    "Kiểm tra sử dụng vốn vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 24 khoản 2"
+ },
+ {
+  "dieu": "24",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Khách hàng có trách nhiệm sử dụng vốn vay và trả nợ theo nội dung thỏa thuận; báo cáo và cung cấp tài liệu chứng minh việc sử dụng vốn vay theo yêu cầu của tô chức tín dụng.",
+  "new": "1. Khách hàng có nghĩa vụ sử dụng vốn vay đúng mục đích đã cam kết, hoàn trả nợ gốc, lãi, phí đầy đủ, đúng hạn theo thỏa thuận; báo cáo việc sử dụng vốn vay và cung cấp thông tin, tài liệu, dữ liệu chứng minh vốn vay được sử dụng đúng mục đích.",
+  "similarity": 0.531,
+  "page_old": 12,
+  "page_new": 22,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Khẳng định nghĩa vụ của khách hàng trong việc sử dụng vốn đúng mục đích và cung cấp tài liệu chứng minh theo yêu cầu.",
+  "impact": {
+   "processes": [
+    "Kiểm tra sử dụng vốn vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 24 khoản 1"
+ },
+ {
+  "dieu": "24",
+  "khoan_old": null,
+  "khoan_new": "3",
+  "status": "Added",
+  "old": "",
+  "new": "3. Đối với các khoản cho vay có mức giá trị nhỏ, tổ chức tín dụng có biện pháp kiểm tra, giám sát việc sử dụng vốn vay đúng mục đích đã cam kết và trả nợ của khách hàng, đảm bảo khả năng thu hồi nợ gốc và lãi tiền vay đầy đủ, đúng hạn theo thỏa thuận.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 23,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Yêu cầu TCTD thiết lập biện pháp kiểm tra, giám sát riêng biệt đối với các khoản vay giá trị nhỏ.",
+  "impact": {
+   "processes": [
+    "Kiểm tra sử dụng vốn vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "loan_amount_mil"
+   ]
+  },
+  "ref": "Điều 24 khoản 3"
+ },
+ {
+  "dieu": "26",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Tuân thủ các quy định về những trường hợp không được cho vay, hạn chế cho vay và giới hạn cho vay tại Điều 126, Điều 127, Điều 128 Luật các tô chức tín dụng và quy định của Ngân hàng Nhà nước Việt Nam về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của tổ chức tín dụng.",
+  "new": "1. Tuân thủ các quy định về những trường hợp không được cho vay, hạn chế cho vay và giới hạn cho vay tại Luật Các tổ chức tín dụng và quy định của Ngân hàng Nhà nước Việt Nam về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của tổ chức tín dụng.",
+  "similarity": 0.945,
+  "page_old": 12,
+  "page_new": 23,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Cập nhật căn cứ pháp lý về các trường hợp không được cho vay theo Luật Các TCTD hiện hành.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Phê duyệt cho vay"
+   ],
+   "departments": [
+    "Thẩm định tín dụng",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 26 khoản 1"
+ },
+ {
+  "dieu": "26",
+  "khoan_old": "4",
+  "khoan_new": "4",
+  "status": "Modified",
+  "old": "4. Thực hiện việc hạch toán kế toán, báo cáo thống kê đối với hoạt động cho vay theo quy định của pháp luật hiện hành vê chê độ hạch toán kê toán và báo cáo thông kê của tô chức tín dụng. Chương lI - QUY ĐỊNH CỤ THE",
+  "new": "4. Thực hiện việc hạch toán kế toán, báo cáo thống kê đối với hoạt động cho vay theo quy định của pháp luật hiện hành về chế độ hạch toán kế toán và báo cáo thống kê của tổ chức tín dụng.",
+  "similarity": 0.929,
+  "page_old": 13,
+  "page_new": 24,
+  "amended_by": "",
+  "summary": "Yêu cầu tuân thủ chế độ hạch toán kế toán và báo cáo thống kê theo quy định pháp luật hiện hành.",
+  "impact": {
+   "processes": [
+    "Giải ngân",
+    "Thu nợ gốc/lãi"
+   ],
+   "departments": [
+    "Kế toán/Tài chính"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 26 khoản 4"
+ },
+ {
+  "dieu": "26",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Sử dụng các phương tiện thanh toán để giải ngân vốn cho vay theo quy định của Ngân hàng Nhà nước Việt Nam về việc sử dụng các phương tiện thanh toán đề giải ngân vốn cho vay của tổ chức tín dụng đối với khách hàng.",
+  "new": "2. Sử dụng các phương tiện thanh toán để giải ngân vốn cho vay theo quy định của Ngân hàng Nhà nước Việt Nam về phương thức giải ngân vốn cho vay của tổ chức tín dụng đối với khách hàng.",
+  "similarity": 0.912,
+  "page_old": 12,
+  "page_new": 23,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Yêu cầu sử dụng phương tiện thanh toán để giải ngân theo quy định mới của NHNN.",
+  "impact": {
+   "processes": [
+    "Giải ngân"
+   ],
+   "departments": [
+    "Vận hành/Giải ngân",
+    "Kế toán/Tài chính"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 26 khoản 2"
+ },
+ {
+  "dieu": "26",
+  "khoan_old": "3",
+  "khoan_new": "3",
+  "status": "Modified",
+  "old": "3. Thực hiện việc phân loại, trích lập dự phòng và sử dụng dự phòng để xử lý rủi ro đối với hoạt động cho vay theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng. 13",
+  "new": "3. Thực hiện việc phân loại, trích lập dự phòng và sử dụng dự phòng để xử lý rủi ro đối với hoạt động cho vay theo quy định của pháp luật.",
+  "similarity": 0.609,
+  "page_old": 12,
+  "page_new": 23,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Yêu cầu thực hiện phân loại nợ và trích lập dự phòng rủi ro theo quy định pháp luật chung.",
+  "impact": {
+   "processes": [
+    "Quản lý rủi ro",
+    "Thu nợ gốc/lãi"
+   ],
+   "departments": [
+    "Quản lý rủi ro",
+    "Kế toán/Tài chính"
+   ],
+   "data_fields": [
+    "default_risk"
+   ]
+  },
+  "ref": "Điều 26 khoản 3"
+ },
+ {
+  "dieu": "26",
+  "khoan_old": null,
+  "khoan_new": "5",
+  "status": "Added",
+  "old": "",
+  "new": "5. Trường hợp cho vay để bảo đảm thực hiện nghĩa vụ của khách hàng vay đối với bên thứ ba, tổ chức tín dụng cho vay thỏa thuận với khách hàng để phong tỏa số tiền cho vay tại tổ chức tín dụng cho vay đảm bảo phù hợp với quy định của pháp luật cho đến khi chấm dứt nghĩa vụ bảo đảm.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 24,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Quy định rõ việc phong tỏa số tiền cho vay khi thực hiện cho vay để bảo đảm nghĩa vụ của khách hàng đối với bên thứ ba.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay",
+    "Giải ngân"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Vận hành/Giải ngân"
+   ],
+   "data_fields": [
+    "loan_amount_mil"
+   ]
+  },
+  "ref": "Điều 26 khoản 5"
+ },
+ {
+  "dieu": "26",
+  "khoan_old": null,
+  "khoan_new": "6",
+  "status": "Added",
+  "old": "",
+  "new": "6. Tổ chức tín dụng phải lưu trữ hồ sơ cho vay theo quy định tại Luật Các tổ chức tín dụng; thời hạn lưu trữ hồ sơ cho vay thực hiện theo quy định của pháp luật về lưu trữ.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 24,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Yêu cầu lưu trữ hồ sơ cho vay theo Luật Các TCTD và pháp luật về lưu trữ thay vì quy định chung chung.",
+  "impact": {
+   "processes": [
+    "Lưu trữ hồ sơ/dữ liệu"
+   ],
+   "departments": [
+    "Vận hành/Giải ngân",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 26 khoản 6"
+ },
+ {
+  "dieu": "26",
+  "khoan_old": null,
+  "khoan_new": "7",
+  "status": "Added",
+  "old": "",
+  "new": "7. Tổ chức tín dụng phải yêu cầu khách hàng cung cấp tài liệu, dữ liệu chứng minh phương án sử dụng vốn khả thi, khả năng tài chính của khách hàng, mục đích sử dụng vốn hợp pháp trước khi quyết định cho vay, trừ khoản cho vay có mức giá trị nhỏ. Đối với khoản cho vay có mức giá trị nhỏ, tổ chức tín dụng phải có tối thiểu thông tin về mục đích sử dụng vốn hợp pháp, khả năng tài chính của khách hàng trước khi quyết định cho vay.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 24,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Bắt buộc thu thập tài liệu chứng minh phương án sử dụng vốn và khả năng tài chính, với quy định nới lỏng hơn cho khoản vay giá trị nhỏ.",
+  "impact": {
+   "processes": [
+    "Tiếp nhận hồ sơ vay",
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Thẩm định tín dụng"
+   ],
+   "data_fields": [
+    "monthly_income_mil",
+    "loan_purpose"
+   ]
+  },
+  "ref": "Điều 26 khoản 7"
+ },
+ {
+  "dieu": "27",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Cho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện so vay đối với khách hàng đề thực hiện một phương án, dự án vay vốn.",
+  "new": "2. Cho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàngđể thực hiện một phương án,dự án vay vốn.",
+  "similarity": 0.982,
+  "page_old": 13,
+  "page_new": 25,
+  "amended_by": "",
+  "summary": "Chỉnh sửa lỗi chính tả trong định nghĩa cho vay hợp vốn.",
+  "impact": {
+   "processes": [],
+   "departments": [],
+   "data_fields": []
+  },
+  "ref": "Điều 27 khoản 2"
+ },
+ {
+  "dieu": "27",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Cho vay từng lần: Mỗi lần cho vay, tô chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kêt thỏa thuận cho vay.",
+  "new": "1. Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay đối với khách hàng và giao kết thỏa thuận cho vay.",
+  "similarity": 0.905,
+  "page_old": 13,
+  "page_new": 25,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Cập nhật thuật ngữ từ ký kết sang giao kết thỏa thuận cho vay.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay"
+   ],
+   "departments": [
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 27 khoản 1"
+ },
+ {
+  "dieu": "27",
+  "khoan_old": "5",
+  "khoan_new": "5",
+  "status": "Modified",
+  "old": "5. Cho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vôn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.",
+  "new": "5 . Cho vay theo hạn mức dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi hạn mức cho vay dự phòng đã thỏa thuận (ngoài phạm vi hạn mức cho vay đã thỏa thuận). Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.",
+  "similarity": 0.897,
+  "page_old": 13,
+  "page_new": 25,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Làm rõ hạn mức cho vay dự phòng là khoản nằm ngoài hạn mức cho vay thông thường.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Phê duyệt cho vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "loan_amount_mil"
+   ]
+  },
+  "ref": "Điều 27 khoản 5"
+ },
+ {
+  "dieu": "27",
+  "khoan_old": "4",
+  "khoan_new": "4",
+  "status": "Modified",
+  "old": "4. Cho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trị trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tô chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tôi đa và thời gian duy trì mức dư nợ này.",
+  "new": "4. Cho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng hạn mức cho vay tối đa duy trì trong một khoảng thời gian nhất định. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại hạn mức cho vay tối đa và thời gian duy trì hạn mức này.",
+  "similarity": 0.829,
+  "page_old": 13,
+  "page_new": 25,
+  "amended_by": "06/2023/TT-NHNN",
+  "summary": "Quy định bắt buộc xem xét lại hạn mức cho vay tối đa ít nhất một lần mỗi năm.",
+  "impact": {
+   "processes": [
+    "Quản lý rủi ro",
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "loan_amount_mil"
+   ]
+  },
+  "ref": "Điều 27 khoản 4"
+ },
+ {
+  "dieu": "27",
+  "khoan_old": "7",
+  "khoan_new": "8",
+  "status": "Modified",
+  "old": "7. Cho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gôc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng. 14 §. Cho vay tuần hoàn (rollover): Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay ngăn hạn đôi với khách hàng với điêu kiện: a) Đến thời hạn trả nợ, khách hàng có quyền trả nợ hoặc kéo dải thời hạn trả nợ thêm một khoảng thời gian nhât định đôi với một phân hoặc toàn bộ sô dư nợ gôc của khoản vay; b) Tổng thời hạn vay vốn không vượt quá 12 tháng kể từ ngày giải ngân ban đầu và không vượt quá một chu kỳ hoạt động kinh doanh; c) Tại thời điểm xem xét cho vay, khách hàng không có nợ xấu tại các tô chức tín dụng: d) Trong quá trình cho vay tuần hoàn, nếu khách hàng có nợ xấu tại các tổ chức tín dụng thì không được thực hiện kéo dài thời hạn trả nợ theo thỏa thuận. 9. Các phương thức cho vay khác được kết hợp các phương thức cho vay quy định tại khoản 1, 2, 3, 4, 5, 6, 7 và khoản 8 Điêu này, phù hợp với điêu kiện hoạt động kinh doanh của tô chức tín dụng và đặc điệm của khoản vay.",
+  "new": "8. Cho vay tuần hoàn (rollover): Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay ngắn hạn đối với khách hàng với điều kiện: a) Đến thời hạn trả nợ, khách hàng có quyền trả nợ hoặc kéo dài thời hạn trả nợ thêm một khoảng thời gian nhất định đối với một phần hoặc toàn bộ số dư nợ gốc của khoản vay; b) Tổng thời hạn vay vốn không vượt quá 12 tháng kể từ ngày giải ngân ban đầu và không vượt quá một chu kỳ hoạt động kinh doanh; c) Tại thời điểm xem xét cho vay, khách hàng không có nợ xấu tại các tổ chức tín dụng; d) Trong quá trình cho vay tuần hoàn, nếu khách hàng có nợ xấu tại các tổ chức tín dụng thì không được thực hiện kéo dài thời hạn trả nợ theo thỏa thuận.",
+  "similarity": 0.714,
+  "page_old": 13,
+  "page_new": 26,
+  "amended_by": "",
+  "summary": "Bổ sung quy định chi tiết về cho vay tuần hoàn, bao gồm điều kiện về nợ xấu và thời hạn vay.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Quản lý rủi ro"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "default_risk"
+   ]
+  },
+  "ref": "Điều 27 khoản 8"
+ },
+ {
+  "dieu": "27",
+  "khoan_old": null,
+  "khoan_new": "7",
+  "status": "Added",
+  "old": "",
+  "new": "7. Cho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 26,
+  "amended_by": "",
+  "summary": "Tách biệt định nghĩa cho vay quay vòng thành một khoản riêng biệt.",
+  "impact": {
+   "processes": [
+    "Thẩm định"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng"
+   ],
+   "data_fields": [
+    "loan_term_months"
+   ]
+  },
+  "ref": "Điều 27 khoản 7"
+ },
+ {
+  "dieu": "27",
+  "khoan_old": null,
+  "khoan_new": "9",
+  "status": "Added",
+  "old": "",
+  "new": "9. Các phương thức cho vay khác được kết hợp các phương thức cho vay quy định tại khoản 1, 2, 3, 4, 5, 6, 7 và khoản 8 Điều này, phù hợp với điều kiện hoạt động kinh doanh của tổ chức tín dụng và đặc điểm của khoản vay.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 26,
+  "amended_by": "",
+  "summary": "Bổ sung quy định cho phép kết hợp các phương thức cho vay khác nhau.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Phê duyệt cho vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 27 khoản 9"
+ },
+ {
+  "dieu": "29",
+  "khoan_old": "1",
+  "khoan_new": null,
+  "status": "Removed",
+  "old": "1. Tổ chức tín dụng lập hồ sơ cho vay, bao gồm: a) Hồ sơ đề nghị vay vốn; b) Thỏa thuận cho vay; c) Báo cáo thực trạng tài chính do khách hàng gửi tô chức tín dụng trong thời gian vay vôn; đ) Hồ sơ liên quan đến bảo đảm tiền vay; đ) Quyết định cho vay có chữ ký của người có thâm quyên; trường hợp quyêt định tập thê, phải có biên bản ghi rõ quyêt định được thông qua; e) Những tài liệu phát sinh trong quá trình sử dụng khoản vay liên quan đến thỏa thuận cho vay do tô chức tín dụng hướng dân.",
+  "new": "",
+  "similarity": 0.0,
+  "page_old": 14,
+  "page_new": null,
+  "amended_by": "",
+  "summary": "Bãi bỏ quy định chi tiết về thành phần hồ sơ cho vay tại Điều 29.",
+  "impact": {
+   "processes": [
+    "Tiếp nhận hồ sơ vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 29 khoản 1"
+ },
+ {
+  "dieu": "29",
+  "khoan_old": "2",
+  "khoan_new": null,
+  "status": "Removed",
+  "old": "2. Tổ chức tín dụng phải lưu giữ hồ sơ cho vay; thời hạn lưu giữ hồ sơ cho vay thực hiện theo quy định của pháp luật. 15",
+  "new": "",
+  "similarity": 0.0,
+  "page_old": 14,
+  "page_new": null,
+  "amended_by": "",
+  "summary": "Bãi bỏ quy định lưu trữ hồ sơ tại Điều 29 do đã được quy định tập trung tại Điều 26.",
+  "impact": {
+   "processes": [
+    "Lưu trữ hồ sơ/dữ liệu"
+   ],
+   "departments": [
+    "Vận hành/Giải ngân"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 29 khoản 2"
+ },
+ {
+  "dieu": "32",
+  "khoan_old": "1",
+  "khoan_new": null,
+  "status": "Removed",
+  "old": "1. Tổ chức tín dụng lập hồ sơ cho vay, bao gồm: a) Hồ sơ đề nghị vay vốn; b) Thỏa thuận cho vay; c) Báo cáo tình hình thu nhập của khách hàng trong thời gian vay vốn theo hướng dân của tô chức tín dụng; đ) Hồ sơ liên quan đến bảo đảm tiền vay; đ) Quyết định cho vay có chữ ký của người có thâm quyền; trường hợp quyết định tập thê, phải có biên bản ghi rõ quyết định được thông qua; e) Những tài liệu phát sinh trong quá trình sử dụng khoản vay liên quan đến thỏa thuận cho vay do tổ chức tín dụng hướng dẫn.",
+  "new": "",
+  "similarity": 0.0,
+  "page_old": 15,
+  "page_new": null,
+  "amended_by": "",
+  "summary": "Bãi bỏ quy định chi tiết về thành phần hồ sơ cho vay tại Điều 32.",
+  "impact": {
+   "processes": [
+    "Tiếp nhận hồ sơ vay"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32 khoản 1"
+ },
+ {
+  "dieu": "32",
+  "khoan_old": "2",
+  "khoan_new": null,
+  "status": "Removed",
+  "old": "2. Tổ chức tín dụng phải lưu giữ hồ sơ cho vay; thời hạn lưu giữ hồ sơ cho vay thực hiện theo quy định của pháp luật.",
+  "new": "",
+  "similarity": 0.0,
+  "page_old": 15,
+  "page_new": null,
+  "amended_by": "",
+  "summary": "Bãi bỏ quy định lưu trữ hồ sơ tại Điều 32 do đã được quy định tập trung tại Điều 26.",
+  "impact": {
+   "processes": [
+    "Lưu trữ hồ sơ/dữ liệu"
+   ],
+   "departments": [
+    "Vận hành/Giải ngân"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32 khoản 2"
+ },
+ {
+  "dieu": "32a",
+  "khoan_old": null,
+  "khoan_new": "1",
+  "status": "Added",
+  "old": "",
+  "new": "1. Tổ chức tín dụng thực hiện cho vay bằng phương tiện điện tử phù hợp với điều kiện hoạt động kinh doanh của tổ chức tín dụng, đặc điểm của khoản vay, đảm bảo an ninh, an toàn, bảo vệ thông điệp dữ liệu và bảo mật thông tin phù hợp với quy định của pháp luật về phòng, chống rửa tiền, giao dịch điện tử, hướng dẫn của Ngân hàng Nhà nước Việt Nam về quản lý rủi ro và các văn bản pháp luật có liên quan.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 27,
+  "amended_by": "",
+  "summary": "Cho phép thực hiện cho vay bằng phương tiện điện tử, yêu cầu tuân thủ quy định về phòng chống rửa tiền và giao dịch điện tử.",
+  "impact": {
+   "processes": [
+    "Nhận biết/xác minh khách hàng",
+    "Hệ thống thông tin/an toàn thông tin"
+   ],
+   "departments": [
+    "Công nghệ thông tin",
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32a khoản 1"
+ },
+ {
+  "dieu": "32a",
+  "khoan_old": null,
+  "khoan_new": "2",
+  "status": "Added",
+  "old": "",
+  "new": "2. Hệ thống thông tin thực hiện hoạt động cho vay bằng phương tiện điện tử phải tuân thủ quy định về bảo đảm an toàn hệ thống thông tin cấp độ 3 trở lên theo quy định của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ và quy định của Ngân hàng Nhà nước Việt Nam về an toàn hệ thống thông tin trong hoạt động ngân hàng.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 28,
+  "amended_by": "",
+  "summary": "Yêu cầu hệ thống cho vay điện tử phải đạt tiêu chuẩn an toàn thông tin cấp độ 3 trở lên.",
+  "impact": {
+   "processes": [
+    "Hệ thống thông tin/an toàn thông tin"
+   ],
+   "departments": [
+    "Công nghệ thông tin",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32a khoản 2"
+ },
+ {
+  "dieu": "32a",
+  "khoan_old": null,
+  "khoan_new": "3",
+  "status": "Added",
+  "old": "",
+  "new": "3. Tổ chức tín dụng phải lưu trữ, bảo quản thông tin, dữ liệu theo quy định của pháp luật, đảm bảo an toàn, bảo mật và được sao lưu dự phòng đảm bảo tính đầy đủ, toàn vẹn của hồ sơ cho phép truy cập, sử dụng khi cần thiết hoặc để phục vụ công tác kiểm tra, đối chiếu, giải quyết tra soát, khiếu nại, tranh chấp và cung cấp thông tin khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 28,
+  "amended_by": "",
+  "summary": "Quy định trách nhiệm lưu trữ, bảo mật và sao lưu dữ liệu cho vay điện tử.",
+  "impact": {
+   "processes": [
+    "Lưu trữ hồ sơ/dữ liệu",
+    "Hệ thống thông tin/an toàn thông tin"
+   ],
+   "departments": [
+    "Công nghệ thông tin",
+    "Vận hành/Giải ngân"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32a khoản 3"
+ },
+ {
+  "dieu": "32a",
+  "khoan_old": null,
+  "khoan_new": "4",
+  "status": "Added",
+  "old": "",
+  "new": "4. Tổ chức tín dụng tự quyết định biện pháp, hình thức, công nghệ phục vụ hoạt động cho vay bằng phương tiện điện tử, tự chịu rủi ro phát sinh (nếu có) và phải đáp ứng tối thiểu các yêu cầu sau: a) Có giải pháp, công nghệ kỹ thuật đảm bảo tính chính xác, bảo mật, an toàn trong quá trình thu thập, sử dụng, kiểm tra thông tin, dữ liệu; b) Có biện pháp kiểm tra, đối chiếu, cập nhật, xác minh thông tin, dữ liệu; có biện pháp ngăn chặn các hành vi giả mạo, can thiệp, chỉnh sửa làm sai lệch thông tin, dữ liệu; c) Có biện pháp theo dõi, nhận dạng, đo lường và kiểm soát rủi ro; có phương án xử lý rủi ro; d) Phân công trách nhiệm cụ thể từng cá nhân, bộ phận có liên quan trong hoạt động cho vay bằng phương tiện điện tử và trong việc quản lý, giám sát rủi ro.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 28,
+  "amended_by": "",
+  "summary": "TCTD tự quyết định công nghệ cho vay điện tử nhưng phải đảm bảo các biện pháp xác minh, chống giả mạo và kiểm soát rủi ro.",
+  "impact": {
+   "processes": [
+    "Nhận biết/xác minh khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "departments": [
+    "Công nghệ thông tin",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": [
+    "default_risk"
+   ]
+  },
+  "ref": "Điều 32a khoản 4"
+ },
+ {
+  "dieu": "32a",
+  "khoan_old": null,
+  "khoan_new": "5",
+  "status": "Added",
+  "old": "",
+  "new": "5. Tổ chức tín dụng xem xét, quyết định thực hiện hoạt động cho vay bằng phương tiện điện tử theo quy định tại Mục 3 Thông tư này. Các nội dung không được quy định tại Mục 3 Thông tư này thực hiện theo các quy định liên quan tại Thông tư này.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 28,
+  "amended_by": "",
+  "summary": "Xác định thứ tự ưu tiên áp dụng quy định cho vay điện tử so với các quy định chung của Thông tư.",
+  "impact": {
+   "processes": [
+    "Phê duyệt cho vay"
+   ],
+   "departments": [
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32a khoản 5"
+ },
+ {
+  "dieu": "32b",
+  "khoan_old": null,
+  "khoan_new": "1",
+  "status": "Added",
+  "old": "",
+  "new": "1. Tổ chức tín dụng phải có giải pháp, công nghệ kỹ thuật để nhận biết và xác minh thông tin nhận biết khách hàng phục vụ hoạt động cho vay bằng phương tiện điện tử; chịu trách nhiệm về rủi ro phát sinh (nếu có) và phải đảm bảo tối thiểu các yêu cầu sau: a) Tổ chức tín dụng thực hiện nhận biết và xác minh thông tin nhận biết khách hàng như việc nhận biết, xác minh thông tin nhận biết khách hàng theo quy định của Ngân hàng Nhà nước về việc mở và sử dụng tài khoản thanh toán tại tổ chức cung ứng dịch vụ thanh toán; b) Xây dựng quy trình quản lý, kiểm soát, đánh giá rủi ro, trong đó có biện pháp ngăn chặn các hành vi mạo danh, can thiệp, chỉnh sửa, làm sai lệch thông tin nhận biết khách hàng trong quá trình cho vay; có biện pháp để kiểm tra, xác minh thông tin nhận biết khách hàng đảm bảo khách hàng thực hiện giao dịch bằng phương tiện điện tử là khách hàng vay vốn; có biện pháp kỹ thuật để xác nhận khách hàng đã được định danh đồng ý với thỏa thuận cho vay. Quy trình quản lý, kiểm soát rủi ro phải thường xuyên được rà soát, hoàn thiện dựa trên những thông tin, dữ liệu cập nhật; c) Lưu trữ, bảo quản đầy đủ, chi tiết thông tin nhận biết khách hàng, dữ liệu sinh trắc học của khách hàng; âm thanh, hình ảnh, bản ghi hình, ghi âm; số điện thoại thực hiện giao dịch; nhật ký giao dịch trong quá trình cho vay.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 28,
+  "amended_by": "29/2026/TT-NHNN",
+  "summary": "Tổ chức tín dụng phải thiết lập hệ thống công nghệ để định danh khách hàng điện tử (eKYC), lưu trữ dữ liệu sinh trắc học và chịu trách nhiệm về rủi ro phát sinh trong quy trình này.",
+  "impact": {
+   "processes": [
+    "Nhận biết/xác minh khách hàng",
+    "Hệ thống thông tin/an toàn thông tin",
+    "Lưu trữ hồ sơ/dữ liệu"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Công nghệ thông tin",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32b khoản 1"
+ },
+ {
+  "dieu": "32b",
+  "khoan_old": null,
+  "khoan_new": "2",
+  "status": "Added",
+  "old": "",
+  "new": "2. Việc nhận biết, xác minh thông tin nhận biết khách hàng tại khoản 1 Điều này áp dụng đối với khách hàng lần đầu thiết lập mối quan hệ tại tổ chức tín dụng. Trường hợp khách hàng đã thiết lập mối quan hệ tại tổ chức tín dụng và hoàn thành việc nhận biết, xác minh thông tin nhận biết khách hàng, tổ chức tín dụng được quyết định việc áp dụng các biện pháp, hình thức, công nghệ để xác minh thông tin nhận biết khách hàng phục vụ cho vay bằng phương tiện điện tử đảm bảo phù hợp với các thông tin đã biết về khách hàng.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 29,
+  "amended_by": "29/2026/TT-NHNN",
+  "summary": "Quy định rõ việc áp dụng eKYC bắt buộc đối với khách hàng mới, trong khi khách hàng cũ có thể áp dụng các biện pháp xác minh linh hoạt hơn dựa trên dữ liệu đã có.",
+  "impact": {
+   "processes": [
+    "Nhận biết/xác minh khách hàng"
+   ],
+   "departments": [
+    "Kinh doanh/Quan hệ khách hàng",
+    "Quản lý rủi ro"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32b khoản 2"
+ },
+ {
+  "dieu": "32d",
+  "khoan_old": null,
+  "khoan_new": null,
+  "status": "Added",
+  "old": "",
+  "new": "Khi có nhu cầu vay vốn, khách hàng phải gửi cho tổ chức tín dụng các tài liệu, dữ liệu chứng minh đủ điều kiện vay vốn theo quy định tại Điều 7 Thông tư này và các tài liệu, dữ liệu khác theo hướng dẫn của tổ chức tín dụng. Điều 32đ. Thẩm định và quyết định cho vay Tổ chức tín dụng tổ chức xét duyệt cho vay bằng phương tiện điện tử phải đảm bảo nguyên tắc phân định trách nhiệm của từng cá nhân, bộ phận xây dựng, thiết lập và vận hành hệ thống thông tin phục vụ khâu thẩm định và quyết định cho vay. Trường hợp có rủi ro phát sinh, tổ chức tín dụng phải có cơ chế để xác định từng cá nhân, bộ phận chịu trách nhiệm và xử lý kịp thời các vấn đề, rủi ro phát sinh để đảm bảo hiệu quả, an toàn trong việc tổ chức xét duyệt cho vay bằng phương tiện điện tử của tổ chức tín dụng.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 29,
+  "amended_by": "",
+  "summary": "Tổ chức tín dụng phải thiết lập cơ chế phân định trách nhiệm cụ thể cho các cá nhân, bộ phận vận hành hệ thống thẩm định và quyết định cho vay điện tử.",
+  "impact": {
+   "processes": [
+    "Thẩm định",
+    "Phê duyệt cho vay",
+    "Hệ thống thông tin/an toàn thông tin"
+   ],
+   "departments": [
+    "Thẩm định tín dụng",
+    "Quản lý rủi ro",
+    "Công nghệ thông tin"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32d"
+ },
+ {
+  "dieu": "32e",
+  "khoan_old": null,
+  "khoan_new": null,
+  "status": "Added",
+  "old": "",
+  "new": "Thỏa thuận cho vay được lập thành văn bản, trường hợp là hợp đồng điện tử thực hiện theo quy định của pháp luật về giao dịch điện tử và phải có tối thiểu các nội dung quy định tại Điều 23 Thông tư này.",
+  "similarity": 0.0,
+  "page_old": null,
+  "page_new": 30,
+  "amended_by": "",
+  "summary": "Cho phép hợp đồng cho vay dưới dạng điện tử, yêu cầu tuân thủ pháp luật về giao dịch điện tử và đảm bảo các nội dung tối thiểu theo quy định.",
+  "impact": {
+   "processes": [
+    "Ký thỏa thuận cho vay"
+   ],
+   "departments": [
+    "Pháp chế/Tuân thủ",
+    "Vận hành/Giải ngân"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 32e"
+ },
+ {
+  "dieu": "33",
+  "khoan_old": "1",
+  "khoan_new": "1",
+  "status": "Modified",
+  "old": "1. Thông tư này có hiệu lực thi hành kê từ ngày 45 tháng 3 năm 2017. lồ",
+  "new": "1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 3 năm 2017.",
+  "similarity": 0.962,
+  "page_old": 15,
+  "page_new": 32,
+  "amended_by": "",
+  "summary": "Chỉnh sửa lỗi chính tả và cập nhật ngày hiệu lực của văn bản.",
+  "impact": {
+   "processes": [],
+   "departments": [],
+   "data_fields": []
+  },
+  "ref": "Điều 33 khoản 1"
+ },
+ {
+  "dieu": "35",
+  "khoan_old": "2",
+  "khoan_new": "2",
+  "status": "Modified",
+  "old": "2. Chánh Văn phòng, Vụ trưởng Vụ Chính sách tiền tệ và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước Việt Nam chi nhánh các tỉnh, thành phố trực thuộc Trung ương; Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên và Tổng giám đốc (Giám đốc) các tổ chức tín dụng có trách nhiệm tô chức thực hiện Thông tư này - [jˆTHÓNG ĐÓC „ Nơi nhận: À — PHÓ THÔNG ĐỐC - Như khoản 2 Điều 35; ` - Ban Lãnh đạo NHNN; - Văn phòng Chính phủ; - Bộ Tư pháp (để kiểm tra); - Công báo; - Lưu: VP, Vụ CSTT. Nguyễn Thị Hồng",
+  "new": "2. Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách nhiệm tổ chức thực hiện Thông tư này./. NGÂN HÀNG NHÀ NƯỚC XÁC THỰC VĂN BẢN HỢP NHẤT VIỆT NAM Hà Nội, ngày 30 tháng 6 năm 2026 Số: /VBHN-NHNN KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC Đoàn Thái Sơn",
+  "similarity": 0.364,
+  "page_old": 17,
+  "page_new": 34,
+  "amended_by": "12/2024/TT-NHNN",
+  "summary": "Cập nhật danh sách các đơn vị chịu trách nhiệm thi hành và thông tin xác thực văn bản hợp nhất.",
+  "impact": {
+   "processes": [],
+   "departments": [
+    "Pháp chế/Tuân thủ"
+   ],
+   "data_fields": []
+  },
+  "ref": "Điều 35 khoản 2"
+ }
+]

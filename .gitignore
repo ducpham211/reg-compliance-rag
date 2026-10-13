@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+data/cache/
+
+# tài liệu đề bài, không thuộc dự án
+2.jpg
+llm.jpg
+9deec463-2822-4997-b9f2-177fb9fc98b2.jpg
+app_demo.py
+data_raw.xlsx
